@@ -1,6 +1,6 @@
 # 📝 iOS Notes App
 
-A **modern, lightweight note-taking app** built with **SwiftUI** and **Core Data**, designed for iPhone and iPad. Quickly create, edit, search, and organize your personal notes in a beautiful interface.
+A **modern, lightweight note-taking app** built with **SwiftUI**, **Core Data** and **FireStore** designed for iPhone and iPad. Quickly create, edit, search, and organize your personal notes in a beautiful interface.
 
 ---
 
@@ -26,5 +26,8 @@ Clean, declarative UI that adapts to light and dark modes.
 
 ✅ **Timestamps**  
 See when each note was last edited.
+
+✅ **Real time Sync**  
+Notes automatically sync with Firebase Firestore.
 
 ---
